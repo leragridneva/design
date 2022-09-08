@@ -122,7 +122,7 @@
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/leragridneva/design/blob/main/1.png");
+ background-image: url("https://raw.githack.com/leragridneva/design/main/1.png");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -131,7 +131,7 @@
  background-position: top center;
 }
 
-#flat .line-break1 {
+#flat .line-break-one {
  background: linear-gradient(60deg, #24120D, #8E6132, #D7B364);
  width: 100%;
  margin: 0 auto;
@@ -143,7 +143,7 @@
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/leragridneva/design/blob/main/2.jpg");
+ background-image: url("https://raw.githack.com/leragridneva/design/main/2.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -152,7 +152,7 @@
  background-position: center center;
 }
 
-#flat .line-break2 {
+#flat .line-break-two {
  background: linear-gradient(60deg, #575F36, #46463E, #A75F43);
  width: 100%;
  margin: 0 auto;
@@ -164,7 +164,7 @@
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/leragridneva/design/blob/main/3.jpg");
+ background-image: url("https://raw.githack.com/leragridneva/design/main/3.jpeg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -173,7 +173,7 @@
  background-position: center center;
 }
 
-#flat .line-break3 {
+#flat .line-break-three {
  background: linear-gradient(60deg, #636D64, #D4BB9C, #80684C);
  width: 100%;
  margin: 0 auto;
