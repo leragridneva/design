@@ -63,13 +63,13 @@
  padding-left: 3px;
  font-family: 'Source Sans Pro', sans-serif;
 }
-.first-character-one {
+#flat .first-character-one {
 color: #ffd700;
 }
-.first-character-two {
+#flat .first-character-two {
 color: #ffd700;
 }
-.first-character-three {
+#flat .first-character-three {
 color: #ffd700;
 }
 #flat .title {
@@ -118,6 +118,11 @@ color: #ffd700;
  background-repeat: no-repeat;
  background-position: top center;
 }
+#flat .line1 {
+ background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ width: 100%;
+ margin: 0 auto;
+}
 #flat .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
@@ -132,6 +137,11 @@ color: #ffd700;
  background-repeat: no-repeat;
  background-position: center center;
 }
+#flat .line2 {
+ background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
+ width: 100%;
+ margin: 0 auto;
+}
 #flat .parallax-three {
  padding-top: 200px;
  padding-bottom: 200px;
@@ -145,16 +155,6 @@ color: #ffd700;
  -webkit-background-size: cover;
  background-repeat: no-repeat;
  background-position: center center;
-}
-#flat .line1 {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
- width: 100%;
- margin: 0 auto;
-}
-#flat .line2 {
- background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
- width: 100%;
- margin: 0 auto;
 }
 #flat .line3 {
  background: linear-gradient(60deg, #008000, #ffd700, #dc143c);
@@ -189,4 +189,3 @@ color: #ffd700;
   width: 290px;
  }
 }
-
